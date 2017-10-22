@@ -25,7 +25,11 @@ __En gros__  Intermédiaire entre le matériel physique, la mémoire, les disque
   
 
 - Lien : - https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation
+         
          - https://www.youtube.com/watch?v=AP4IEVq6HcE
+         
          - https://www.youtube.com/watch?v=Pib2T1uKock
+         
          - https://www.youtube.com/watch?v=4OhUDAtmAUo
+         
          - https://fr.wikipedia.org/wiki/ENIAC
