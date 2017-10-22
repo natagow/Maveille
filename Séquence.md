@@ -33,12 +33,17 @@ __En gros__  Intermédiaire entre le matériel physique, la mémoire, les disque
 
 
 
-Les différents systèmes d'exploitation
-    ![Système exploitation](https://itsfoss.com/wp-content/uploads/2013/07/Windows_Vs_Mac_Vs_Linux_11.jpeg)
-    ![Ma tête](https://scontent.fbru2-1.fna.fbcdn.net/v/t1.0-9/15349749_1149786281737860_4771631489209410892_n.jpg?oh=5f3288ab54cde2e02040656cc13ce29e&oe=5A860A27)
+Les différents systèmes d'exploitation :
+
+![Système exploitation](https://itsfoss.com/wp-content/uploads/2013/07/Windows_Vs_Mac_Vs_Linux_11.jpeg)
+
+Moi quand j'entend des gens se battrent entre Windows, Mac Os, Linux.
+
+![Ma tête](https://scontent.fbru2-1.fna.fbcdn.net/v/t1.0-9/15349749_1149786281737860_4771631489209410892_n.jpg?oh=5f3288ab54cde2e02040656cc13ce29e&oe=5A860A27)
 
 * Les différents systèmes   
   * OS X
+  *
 
 
 - Lien  :
