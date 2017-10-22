@@ -42,8 +42,21 @@ Moi quand j'entend des gens se battrent entre Windows, Mac Os, Linux.
 ![Ma tête](https://scontent.fbru2-1.fna.fbcdn.net/v/t1.0-9/15349749_1149786281737860_4771631489209410892_n.jpg?oh=5f3288ab54cde2e02040656cc13ce29e&oe=5A860A27)
 
 * Les différents systèmes   
-  * OS X
-  *
+
+  * Windows
+    a été crée par microsoft, c'est le système le plus répandu et est présent sur différents marques d'ordinateur.
+
+    Windows, le système d'exploitation développé par Microsoft, est le plus utilisé au monde et il est souvent livré avec l'ordinateur. Facile d'accès et convivial, il est décliné en différentes versions (on en est actuellement à Windows 8) et en différentes versions (grand public, professionnel, entreprise). Le nombre de logiciels et de jeux développés pour Windows est phénoménal, et c'est l'OS le plus adapté pour une utilisation grand public. Avec un ordinateur Windows, vous n'aurez aucun mal à utiliser les logiciels du marché, et vous pourrez le faire fonctionner sur de nombreux appareils différents. À l'usage, Windows est souvent la cible d'attaques virales, du fait de sa popularité, et il faut fréquemment le mettre à jour.
+
+  * Mac OS
+    a été developpé par la société Apple, n'est vendu que sur les ordinateurs de la marque Apple
+
+    Si vous êtes intéressé par le design et l'ergonomie, et que vous utilisez surtout votre ordinateur à des fins professionnelles, vous pouvez vous laisser tenter par Mac OS, un système d'exploitation payant qui est la propriété d'Apple, et qui équipe tous les ordinateurs de la marque. La disposition du menu et la gestion des programmes sont un peu différentes de celle de Windows, mais les interfaces graphiques tendent de plus en plus à se ressembler. Tout comme Microsoft, Apple propose régulièrement de nouvelles versions de son OS (la dernière version est Mac OS 10.10 dit "Yosemite"). Sachez-le aussi, si vous possédez un ordinateur Mac, il est possible d'installer un autre système d'exploitation dessus !
+
+  * Linux   
+    est le moins connu des 3 est rarement installé par défaut sur les ordinateurs, gratuit et libre mais surtout utilisé par les connaisseurs en informatique.
+
+    Le système d'exploitation Linux est réservé aux utilisateurs qui utilisaient un logiciel libre plutôt que les deux OS leaders du marché. Il existe plusieurs centaines de distributions Linux à télécharger gratuitement sur Internet, mais il est conseillé de débuter par Ubuntu si on a des connaissances informatiques de base. L'installation de Linux est simple et conviviale sur un ordinateur PC ou Mac, et il existe de nombreux tutoriels sur Internet. Attention, si vous trouverez facilement des équivalents de tous les logiciels de bureautique, il n'est pas toujours simple de trouver une alternative Linux à un logiciel développé pour Windows, sans parler des jeux vidéo ! Par exemple, il n'y a pas de réel équivalent à Adobe Photoshop et Illustrator, alors évaluez bien vos besoins avant de vous lancer !
 
 
 - Lien  :
@@ -57,3 +70,5 @@ Moi quand j'entend des gens se battrent entre Windows, Mac Os, Linux.
          - https://www.youtube.com/watch?v=4OhUDAtmAUo
 
          - https://fr.wikipedia.org/wiki/ENIAC
+
+         - http://pratique.leparisien.fr/faq/informatique/ordinateur/quelle-difference-entre-linux-windows-et-mac-1320004105#xtref=https%3A%2F%2Fwww.google.be%2F
