@@ -24,7 +24,9 @@ __En gros__  Intermédiaire entre le matériel physique, la mémoire, les disque
   * OS X
   
 
-- Lien : - https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation
+- Lien  : 
+
+        - https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation
          
          - https://www.youtube.com/watch?v=AP4IEVq6HcE
          
