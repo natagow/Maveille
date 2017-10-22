@@ -4,5 +4,6 @@
    * Intéressé les autres apprenants
    * Leur apprendre de nouvelle chose sur un sujet déjà largèment connu
    * Ne pas oublier l'aspect historique du sujet 
+   * Eveiller sans endormir 
                  
- BONUS : *Interactivité*
+ **BONUS** : *Interactivité*
