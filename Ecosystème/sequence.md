@@ -43,9 +43,16 @@
 
   ![Android](http://www.developpez.com/public/images/news/Ecosysteme-Android.png)
 
-    *5 conseils pour faire son echosystèmes*
+    **5 conseils pour faire son echosystèmes**
 
   ![conseils](https://scontent.fbru3-1.fna.fbcdn.net/v/t35.0-12/23158248_1445067162209769_1378098184_o.png?oh=0bdd79c2e2a56f227befcc7c3e1eb0f3&oe=59FCBD07)
+
+    **Partie interactive**
+
+  ![pushbullet](http://phandroid.s3.amazonaws.com/wp-content/uploads/2014/05/Pushbullet-640x401.png)
+
+  ![automate](https://lh5.ggpht.com/vLcm1YG_fXHqSC9Omqwx1wmMId-_rUZvXmv_5sEEaITVbS612Tue0ra3jCW4sjUC6l8=w300)
+
 
 
 
