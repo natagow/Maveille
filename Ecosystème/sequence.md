@@ -44,9 +44,10 @@
   ![Android](http://www.developpez.com/public/images/news/Ecosysteme-Android.png)
 
     *5 conseils pour faire son echosystèmes*
-  ![conseils](https://www.hostingpics.net/viewer.php?id=731648Sanstitre.png)
 
-  "><img src="https://img4.hostingpics.net/thumbs/mini_731648Sanstitre.png" alt="Heberger image" /></a>
+  ![conseils](https://img4.hostingpics.net/thumbs/mini_731648Sanstitre.png)
+
+
 
 
 * Liens :
