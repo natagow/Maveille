@@ -25,7 +25,8 @@
    ![apple](https://image.slidesharecdn.com/visionmobile-digitalwinners-131121055420-phpapp01/95/visionmobile-business-models-of-mobile-ecosystems-digital-winners-15-638.jpg?cb=1385023880)
 
 
-    **Les avantages**
+   **Les avantages**
+   
     L’écosystème est généralement centré sur l’utilisateur.
 
     Il favorise clairement la fidélisation client. Une fois que l’utilisateur a choisi un écosystème, il aura tendance à le conserver. En effet, comme dans le cas précédent d’Apple, la facilité d’utilisation et de renouvellement des produits facilite l’usage du client au quotidien et augmente sa fidélité.
