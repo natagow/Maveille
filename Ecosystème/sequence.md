@@ -27,20 +27,20 @@
 
    **Les avantages**
 
-    L’écosystème est généralement centré sur l’utilisateur.
+   L’écosystème est généralement centré sur l’utilisateur.
 
-    Il favorise clairement la fidélisation client. Une fois que l’utilisateur a choisi un écosystème, il aura tendance à le conserver. En effet, comme dans le cas précédent d’Apple, la facilité d’utilisation et de renouvellement des produits facilite l’usage du client au quotidien et augmente sa fidélité.
+   Il favorise clairement la fidélisation client. Une fois que l’utilisateur a choisi un écosystème, il aura tendance à le conserver. En effet, comme dans le cas précédent d’Apple, la facilité d’utilisation et de renouvellement des produits facilite l’usage du client au quotidien et augmente sa fidélité.
 
-    L’écosystème assure aussi une meilleure cohérence et synchronisation des différents éléments et acteurs.
+   L’écosystème assure aussi une meilleure cohérence et synchronisation des différents éléments et acteurs.
 
-    Il favorise donc le cross-selling en facilitant l’accès du client à des offres contextuelles, complémentaires ou même proposées par des partenaires.
+   Il favorise donc le cross-selling en facilitant l’accès du client à des offres contextuelles, complémentaires ou même proposées par des partenaires.
 
   **La différence entre apple et android ?**
 
     ![population](http://www.developpez.com/public/images/news/Android-vs-iOS.png)
 
     ![Apple](http://www.developpez.com/public/images/news/Ecosysteme-iOS.png)
-    
+
     ![Android](http://www.developpez.com/public/images/news/Ecosysteme-Android.png)
 
     *5 conseils pour faire son echosystèmes*
