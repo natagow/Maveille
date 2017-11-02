@@ -13,16 +13,16 @@
    Cet écosystème digital peut cependant être remis régulièrement en question, voire être totalement chamboulé en fonction des fréquentes innovations qui viennent l’impacter… Comme un écosystème naturel, sa pérennité est chaque jour remise en question en fonction de l’évolution du contexte et « des prédateurs » qui peuvent le mettre en danger. Les écosystèmes ont donc une durée de vie plus ou moins longue mais aucun n’est éternel !
 
    **Un exemple ?**
-   
+
    La marque à la pomme conçoit le hardware, Mac, Iphone, Ipod, Ipad permettant de diffuser et d’écouter de la musique. Elle a même récemment étendu le champ de son écosystème aux accessoires musicaux grâce au rachat de la marque Beats ou à des partenariats très ciblés.
 
-    Elle développe également le logiciel intégré iTunes se synchronisant sur l’ensemble de ses « idevices » et permettant l’accès à ses différents services.
+   Elle développe également le logiciel intégré iTunes se synchronisant sur l’ensemble de ses « idevices » et permettant l’accès à ses différents services.
 
-    Elle propose l’achat et le téléchargement de musique depuis l‘iTunes Store.
+   Elle propose l’achat et le téléchargement de musique depuis l‘iTunes Store.
 
-    Elle commercialise même un nouveau service de musique en streaming Apple Music qui, bénéficiant de l’effet de levier de son écosystème, s’est hissé en quelques mois à la deuxième place derrière Spotify.
+   Elle commercialise même un nouveau service de musique en streaming Apple Music qui, bénéficiant de l’effet de levier de son écosystème, s’est hissé en quelques mois à la deuxième place derrière Spotify.
 
-    ![apple](https://image.slidesharecdn.com/visionmobile-digitalwinners-131121055420-phpapp01/95/visionmobile-business-models-of-mobile-ecosystems-digital-winners-15-638.jpg?cb=1385023880)
+   ![apple](https://image.slidesharecdn.com/visionmobile-digitalwinners-131121055420-phpapp01/95/visionmobile-business-models-of-mobile-ecosystems-digital-winners-15-638.jpg?cb=1385023880)
 
 
     **Les avantages**
@@ -34,7 +34,7 @@
 
     Il favorise donc le cross-selling en facilitant l’accès du client à des offres contextuelles, complémentaires ou même proposées par des partenaires.
 
-    **La différence entre apple et android ?**
+  **La différence entre apple et android ?**
 
     ![population](http://www.developpez.com/public/images/news/Android-vs-iOS.png)
     ![Apple](http://www.developpez.com/public/images/news/Ecosysteme-iOS.png)
