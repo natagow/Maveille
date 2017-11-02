@@ -13,6 +13,7 @@
    Cet écosystème digital peut cependant être remis régulièrement en question, voire être totalement chamboulé en fonction des fréquentes innovations qui viennent l’impacter… Comme un écosystème naturel, sa pérennité est chaque jour remise en question en fonction de l’évolution du contexte et « des prédateurs » qui peuvent le mettre en danger. Les écosystèmes ont donc une durée de vie plus ou moins longue mais aucun n’est éternel !
 
    **Un exemple ?**
+   
    La marque à la pomme conçoit le hardware, Mac, Iphone, Ipod, Ipad permettant de diffuser et d’écouter de la musique. Elle a même récemment étendu le champ de son écosystème aux accessoires musicaux grâce au rachat de la marque Beats ou à des partenariats très ciblés.
 
     Elle développe également le logiciel intégré iTunes se synchronisant sur l’ensemble de ses « idevices » et permettant l’accès à ses différents services.
