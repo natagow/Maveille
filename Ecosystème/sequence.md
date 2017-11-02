@@ -37,11 +37,11 @@
 
   **La différence entre apple et android ?**
 
-    ![population](http://www.developpez.com/public/images/news/Android-vs-iOS.png)
+  ![population](http://www.developpez.com/public/images/news/Android-vs-iOS.png)
 
-    ![Apple](http://www.developpez.com/public/images/news/Ecosysteme-iOS.png)
+  ![Apple](http://www.developpez.com/public/images/news/Ecosysteme-iOS.png)
 
-    ![Android](http://www.developpez.com/public/images/news/Ecosysteme-Android.png)
+  ![Android](http://www.developpez.com/public/images/news/Ecosysteme-Android.png)
 
     *5 conseils pour faire son echosystèmes*
     <a href="https://www.hostingpics.net/viewer.php?id=731648Sanstitre.png"><img src="https://img4.hostingpics.net/thumbs/mini_731648Sanstitre.png" alt="Heberger image" /></a>
